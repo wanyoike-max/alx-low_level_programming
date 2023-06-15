@@ -7,3 +7,5 @@
 * Script 2 generates the assembly code of a C code and save it in an outpul file
 
 * Script 3 compiles a C file and creates an executable named cisfun  
+
+* Script 4 how to print a line using C in a shell script 
