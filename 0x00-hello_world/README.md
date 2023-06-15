@@ -4,4 +4,6 @@
 
 * Script 1 shows us how to compike a c file but does not link 
 
-* Script 2 generates the assembly code of a C code and save it in an outpul file  
+* Script 2 generates the assembly code of a C code and save it in an outpul file
+
+* Script 3 compiles a C file and creates an executable named cisfun  
