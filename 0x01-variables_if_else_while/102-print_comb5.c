@@ -3,7 +3,8 @@
  * main - Entry point
  * Return: 0(success)
  */
- int main(void)
+
+int main(void)
 {
 	int i, k;
 
@@ -11,7 +12,7 @@
 	{
 		for (k = 0; k < 100; k++)
 		{
-			if (i > k)
+			if (i < k)
 			{
 				putchar((i / 10) + 48);
 				putchar((i % 10) + 48);
