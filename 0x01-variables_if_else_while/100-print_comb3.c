@@ -17,7 +17,7 @@ int main(void)
 			{
 				putchar(i);
 				putchar(m);
-				if (m == 44 && i = 43)
+				if (m == 44 && i == 43)
 				{
 					break
 					;
