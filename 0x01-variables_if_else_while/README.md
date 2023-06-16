@@ -16,4 +16,6 @@
 
 * Script 7 hows us how to print the alphabet in reverse lowercase
 
-* Script 8 shows how to print akl numbers of base 16 in lowercase   
+* Script 8 shows how to print akl numbers of base 16 in lowercase
+
+* Script 9 shows us how to print all possible combinations of dinglr digit numbers    
