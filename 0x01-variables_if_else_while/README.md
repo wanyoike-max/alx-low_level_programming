@@ -18,4 +18,6 @@
 
 * Script 8 shows how to print akl numbers of base 16 in lowercase
 
-* Script 9 shows us how to print all possible combinations of dinglr digit numbers    
+* Script 9 shows us how to print all possible combinations of dinglr digit numbers
+
+* Script 100 ahowa how to get all possible combinations of two digits     
