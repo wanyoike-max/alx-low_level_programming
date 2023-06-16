@@ -6,4 +6,6 @@
 
 * Script 2 shows us how to print the alphhabet in lower case
 
-* Script 3 shows us how to print the alphabet in lower and uppercase with a new line  
+* Script 3 shows us how to print the alphabet in lower and uppercase with a new line
+
+* Script 4 shows us how to print the alphabet in lowercase with the exemption of q and e  
