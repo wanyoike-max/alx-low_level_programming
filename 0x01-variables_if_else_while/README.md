@@ -14,4 +14,6 @@
 
 * Script 6 prints all single digit numbers of base 10 with putchar command
 
-* Script 7 hows us how to print the alphabet in reverse lowercase  
+* Script 7 hows us how to print the alphabet in reverse lowercase
+
+* Script 8 shows how to print akl numbers of base 16 in lowercase   
