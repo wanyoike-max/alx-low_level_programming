@@ -17,7 +17,7 @@
 				putchar((i % 10) + 48);
 				putchar(' ');
 				putchar((k / 10) + 48);
-				putchar((k % 10)  48);
+				putchar((k % 10) + 48);
 				if (i != 98 || k != 99)
 				{
 					putchar(',');
