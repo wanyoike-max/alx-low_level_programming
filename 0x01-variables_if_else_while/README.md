@@ -12,4 +12,6 @@
 
 * Script 5 shows us how to get all single digit numbers of base 10
 
-* Script 6 prints all single digit numbers of base 10 with putchar command 
+* Script 6 prints all single digit numbers of base 10 with putchar command
+
+* Script 7 hows us how to print the alphabet in reverse lowercase  
