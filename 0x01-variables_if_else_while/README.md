@@ -10,4 +10,6 @@
 
 * Script 4 shows us how to print the alphabet in lowercase with the exemption of q and e
 
-* Script 5 shows us how to get all single digit numbers of base 10  
+* Script 5 shows us how to get all single digit numbers of base 10
+
+* Script 6 prints all single digit numbers of base 10 with putchar command 
