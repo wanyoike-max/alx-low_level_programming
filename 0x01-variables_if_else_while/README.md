@@ -22,4 +22,6 @@
 
 * Script 100 ahowa how to get all possible combinations of two digits 
 
-* Script 101 shows us how to ge all possible combinations of 3 numbers    
+* Script 101 shows us how to ge all possible combinations of 3 numbers 
+
+* Script 102 shows us how to print all possible combinations of two two-digit numbers   
