@@ -8,7 +8,7 @@
 int main(void)
 {
 	int i;
-	unsigned long f1 = 0, f2 = 2, sum;
+	unsigned long f1 = 1, f2 = 2, sum;
 
 	for (i = 0; i < 50; i++)
 	{
