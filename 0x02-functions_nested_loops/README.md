@@ -24,4 +24,6 @@
 
 * Script 11 ahows us how to print all numbers from n to 98
 
-* Script 100 shows us how to print the times table having n as the integer to multiply    
+* Script 100 shows us how to print the times table having n as the integer to multiply
+
+* Script 101 shows us a list of all multiples of 3 and 5 below 1024 as a sum    
