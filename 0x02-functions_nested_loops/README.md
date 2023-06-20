@@ -20,4 +20,6 @@
 
 * Script 9 shows us how to print the 9 times table starting with 0
 
-* Script 10 shows us how to add to integers a and b and return the result    
+* Script 10 shows us how to add to integers a and b and return the result
+
+* Script 11 ahows us how to print all numbers from n to 98    
