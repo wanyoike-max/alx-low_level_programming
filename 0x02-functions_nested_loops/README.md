@@ -22,4 +22,6 @@
 
 * Script 10 shows us how to add to integers a and b and return the result
 
-* Script 11 ahows us how to print all numbers from n to 98    
+* Script 11 ahows us how to print all numbers from n to 98
+
+* Script 100 shows us how to print the times table having n as the integer to multiply    
