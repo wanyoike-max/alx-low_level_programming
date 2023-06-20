@@ -12,4 +12,6 @@
 
 * Script 5 shows us how to print the sign of a number whether positive or negative
 
-* Script 6 shows us the absolute value of an integer  
+* Script 6 shows us the absolute value of an integer
+
+* Script 7 shows us how to print the last digit of a nuumber   
