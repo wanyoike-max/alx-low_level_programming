@@ -28,4 +28,6 @@
 
 * Script 101 shows us a list of all multiples of 3 and 5 below 1024 as a sum
 
-* Script 102 shows us how to print the first 50 fibonacci numbers starting with 1 and 2    
+* Script 102 shows us how to print the first 50 fibonacci numbers starting with 1 and 2
+
+* Script 103 shows us how to get the sum of even numbers in a ffibonacci sequence    
