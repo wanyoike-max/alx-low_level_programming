@@ -6,4 +6,6 @@
 
 * Script 2 shows us how to print the aphabet 10 times followed by a new line
 
-* Script 3 shows us how to check for lowercase letters  
+* Script 3 shows us how to check for lowercase letters
+
+* Script 4 shows us how to check for alphabetic characters  
