@@ -10,4 +10,6 @@
 
 * Script 4 shows us how to check for alphabetic characters
 
-* Script 5 shows us how to print the sign of a number whether positive or negative  
+* Script 5 shows us how to print the sign of a number whether positive or negative
+
+* Script 6 shows us the absolute value of an integer  
