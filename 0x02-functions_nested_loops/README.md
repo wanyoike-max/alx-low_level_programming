@@ -30,4 +30,6 @@
 
 * Script 102 shows us how to print the first 50 fibonacci numbers starting with 1 and 2
 
-* Script 103 shows us how to get the sum of even numbers in a ffibonacci sequence    
+* Script 103 shows us how to get the sum of even numbers in a ffibonacci sequence
+
+* Script 104 shows us finds the first 98 fiobonacci numbers     
