@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_sign - prints the sign of a number
- * @n - the character to be tested 
+ * @n - the character to be tested
  * Return: 1 and prints + if n > 0
  * 0 and prints 0 if n is zero
  * -1 and prints - if n < 0
@@ -24,9 +24,9 @@ int print_sign(int n)
 	else if (n < 0)
 	{
 		_putchar('-');
-	}	
+	}
 		return (-1);
-	
+
 }
 
 
