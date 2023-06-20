@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - sum of even valued terms
- * followed by a new line 
+ * followed by a new line
  * Return: 0(success)
  */
 
@@ -16,11 +16,12 @@ int main(void)
 
 	for (i = 1; i <= 33; i++)
 	{
-		if (j < 4000000 && (j % 2 ) == 0)
+		if (j < 4000000 && (j % 2) == 0)
 		{
 			sum = sum + j;
 		}
 		next = j + k;
+		j = k;
 		k = next;
 	}
 
