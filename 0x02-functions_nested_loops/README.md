@@ -1,3 +1,7 @@
 ## FUNCTIONS NESTED LOOPS
 
 * Script 0 show us how to print _putchar. followed by a line
+
+* Script 1 shows us how to print the alphabet in lowercase followed by a new line 
+
+* Script 2 shows us how to print the aphabet 10 times followed by a new line 
