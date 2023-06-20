@@ -14,4 +14,6 @@
 
 * Script 6 shows us the absolute value of an integer
 
-* Script 7 shows us how to print the last digit of a nuumber   
+* Script 7 shows us how to print the last digit of a nuumber
+
+* Script 8 shows us how to print every minute of Jack Beaeur's day fro 00:00 to 23:59   
