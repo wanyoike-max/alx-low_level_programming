@@ -16,4 +16,6 @@
 
 * Script 7 shows us how to print the last digit of a nuumber
 
-* Script 8 shows us how to print every minute of Jack Beaeur's day fro 00:00 to 23:59   
+* Script 8 shows us how to print every minute of Jack Beaeur's day fro 00:00 to 23:59
+
+* Script 9 shows us how to print the 9 times table starting with 0    
