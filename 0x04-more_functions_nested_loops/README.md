@@ -10,4 +10,6 @@
 
 * Script 4 shows us how to print numbers from 0 to 9 excluding 2 and 4 followed by a new line
 
-* Script 5 shows us how to print 10 times from 0 to 14    
+* Script 5 shows us how to print 10 times from 0 to 14
+
+* Script 6 shows us how to print a straight line in a terminal     
