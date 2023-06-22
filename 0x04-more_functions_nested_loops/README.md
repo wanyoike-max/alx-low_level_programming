@@ -15,3 +15,5 @@
 * Script 6 shows us how to print a straight line in a terminal 
 
 * Script 7 shows us how to draw a diagonal line in the terminal
+
+* Script 8 shows us how to print a square followed by a new line
