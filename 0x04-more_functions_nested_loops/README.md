@@ -17,3 +17,5 @@
 * Script 7 shows us how to draw a diagonal line in the terminal
 
 * Script 8 shows us how to print a square followed by a new line
+
+* Script 9 shows us how to print number s from 1 to 100 with multiples of 3 , 5 and 15
