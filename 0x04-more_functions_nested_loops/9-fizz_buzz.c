@@ -3,39 +3,28 @@
 /**
  * main - entry point
  * description: prints numbers from 1 to 100
- * fizz for multipkes of 3, buzz for 5
+ * fizzz or multipkes of 3, buzz for 5
  * fizzbuzz for multiples of both
  * Returm: 0(success)
  */
 
 int main(void)
 {
-int x = 1;
+int i;
 
-while (x < 101)
+for (i = 1; i <= 100; i++)
 {
-if (x % 3 == 0 && x % 5 == 0)
-{
-printf("%s", "FizzBuzz");
-}
-else if (x % 3 == 0)
-{
-printf("%s", "Fizz");
-}
-else if (x % 5 == 0)
-{
-printf("%s", "Buzz");
-}
+if (i % 3 == 0 && i % 5 == 0)
+printf("FizzBuzz");
+else if (i % 3 == 0)
+printf("Fizz");
+else if (i % 5 == 0)
+printf("Buzz");
 else
-{
-printf("%d", x);
-}
+printf("%d", i);
 
-if (x != 100)
-{
+if (i < 100)
 printf(" ");
-}
-x++;
 }
 printf("\n");
 return (0);
