@@ -2,7 +2,7 @@
 /**
  * mul - multiplies two integers
  * @a: to be multiplied by b
- * @v: to be multiplied by a
+ * @b: to be multiplied by a
  * Return: results
  */
 
