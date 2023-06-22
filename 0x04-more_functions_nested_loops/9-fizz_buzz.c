@@ -3,8 +3,8 @@
 /**
  * main - entry point
  * description: prints numbers from 1 to 100
- * fizzz or multipkes of 3, buzz for 5
- * fizzbuzz for multiples of both
+ * multipkes of 3 buzz for 5
+ * for multiples of both
  * Returm: 0(success)
  */
 
