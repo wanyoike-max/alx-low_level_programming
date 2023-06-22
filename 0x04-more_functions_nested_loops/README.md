@@ -12,4 +12,6 @@
 
 * Script 5 shows us how to print 10 times from 0 to 14
 
-* Script 6 shows us how to print a straight line in a terminal     
+* Script 6 shows us how to print a straight line in a terminal 
+
+* Script 7 shows us how to draw a diagonal line in the terminal
