@@ -9,3 +9,5 @@
 * Script 3 shows us how to Write a function that prints a string, followed by a new line, to stdout.
 
 * Script 4 show sus how to Write a function that prints a string, in reverse, followed by a new line.
+
+* Script 5 shows us how to Write a function that reverses a string.
