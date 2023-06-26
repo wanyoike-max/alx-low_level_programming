@@ -4,7 +4,7 @@
  * _strcpy - copies the str pointed to
  * including terminating null byte
  * to the buffer pointed to the dest
- * @dest: pointer to the buffer 
+ * @dest: pointer to the buffer
  * @src: str to be copied
  * Return: the pointere to dest
  */
@@ -25,6 +25,6 @@ char *_strcpy(char *dest, char *src)
 		dest[i] = src[i];
 	}
 	 dest[i] = '\0';
-
+	 
 	 return (dest);
 }
