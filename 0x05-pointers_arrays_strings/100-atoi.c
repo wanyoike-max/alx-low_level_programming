@@ -7,7 +7,7 @@
  * Return: the int converted from the str
  */
 
-int _atoi(char *c)
+int _atoi(char *s)
 {
 	int i, d, n, len, f, digit;
 
