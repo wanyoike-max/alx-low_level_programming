@@ -7,3 +7,5 @@
 * Script 2 shows us how to Write a function that returns the length of a string.
 
 * Script 3 shows us how to Write a function that prints a string, followed by a new line, to stdout.
+
+* Script 4 show sus how to Write a function that prints a string, in reverse, followed by a new line.
