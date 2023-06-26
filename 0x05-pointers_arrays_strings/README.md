@@ -13,3 +13,5 @@
 * Script 5 shows us how to Write a function that reverses a string.
 
 * Script 6 shows us how to Write a function that prints every other character of a string, starting with the first character, followed by a new line.
+
+* Script 7 shows us how to Write a function that prints half of a string, followed by a new line.
