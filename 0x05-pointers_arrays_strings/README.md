@@ -21,3 +21,5 @@
 * Script 9 shows us how to Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
 * Script 100 shows us how to Write a function that convert a string to an integer.
+
+* Script 101 show us how to Create a program that generates random valid passwords for the program 101-crackme.
