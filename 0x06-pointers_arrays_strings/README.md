@@ -11,3 +11,5 @@ Return a pointer to the resulting string dest
 * Script 3 shows us how to Write a function that compares two strings.
 
 * Script 4 shows us how to Write a function that reverses the content of an array of integers.
+
+* Script 5 show us how to Write a function that changes all lowercase letters of a string to uppercase.
