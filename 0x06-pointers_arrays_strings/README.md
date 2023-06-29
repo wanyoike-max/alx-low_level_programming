@@ -7,3 +7,5 @@ src does not need to be null-terminated if it contains n or more bytes
 Return a pointer to the resulting string dest
 
 * Script 2 shows us how to Write a function that copies a string.
+
+* Script 3 shows us how to Write a function that compares two strings.
