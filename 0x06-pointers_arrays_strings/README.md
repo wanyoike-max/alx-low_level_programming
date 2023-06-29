@@ -9,3 +9,5 @@ Return a pointer to the resulting string dest
 * Script 2 shows us how to Write a function that copies a string.
 
 * Script 3 shows us how to Write a function that compares two strings.
+
+* Script 4 shows us how to Write a function that reverses the content of an array of integers.
