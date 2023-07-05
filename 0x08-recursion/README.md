@@ -16,3 +16,5 @@
 * Script 6 shows us how to Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
 
 * Script 100 ahowa us how to Write a function that returns 1 if a string is a palindrome and 0 if not.
+
+* Script 101 shows us how to Write a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
