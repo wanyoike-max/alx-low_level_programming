@@ -14,3 +14,5 @@
 * Script 5 show sus how to Write a function that returns the natural square root of a number.
 
 * Script 6 shows us how to Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
+
+* Script 100 ahowa us how to Write a function that returns 1 if a string is a palindrome and 0 if not.
