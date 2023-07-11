@@ -5,9 +5,9 @@
  * *str_concat - concatenates two strings
  * @s1: string to concatenate
  * @s2: other string to concatenate
- * Return: ponter to new string
+ *
+ * Return: pointer to the new string created (Success), or NULL (Error)
  */
-
 char *str_concat(char *s1, char *s2)
 {
 	char *s3;
@@ -21,19 +21,20 @@ char *str_concat(char *s1, char *s2)
 	s3 = malloc(sizeof(char) * (len1 + len2 + 1));
 	if (s3 == NULL)
 		return (NULL);
+
 	i = 0;
 	j = 0;
 
 	if (s1)
 	{
 		while (i < len1)
-	 	{
+		{
 			s3[i] = s1[i];
 			i++;
-	 	}
+		}
 	}
 
-	 if (s2)
+	if (s2)
 	{
 		while (i < (len1 + len2))
 		{
