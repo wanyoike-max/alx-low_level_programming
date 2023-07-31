@@ -7,3 +7,7 @@ Return: the number of nodes
 Format: see example
 You are allowed to use printf
 julien@ubuntu:~/0x13. More singly linked lists
+
+* Script 1 show sus how to Write a function that returns the number of elements in a linked listint_t list.
+
+Prototype: size_t listint_len(const listint_t *h);
