@@ -10,9 +10,10 @@
  * Return: NULL
  *         a/c - the actual number of bytes the function can read and print.
  */
+
 ssize_t read_textfile(const char *filename, size_t letters)
 {
-	ssize_t a, b, c;
+	ssize_t o, r, w;
 	char *buffer;
 
 	if (filename == NULL)
@@ -22,18 +23,18 @@ ssize_t read_textfile(const char *filename, size_t letters)
 	if (buffer == NULL)
 		return (0);
 
-	a = open(filename, O_RDONLY);
-	b = read(o, buffer, letters);
-	c = write(STDOUT_FILENO, buffer, r);
+	o = open(filename, O_RDONLY);
+	r = read(o, buffer, letters);
+	w = write(STDOUT_FILENO, buffer, r);
 
-	if (a == -1 || b == -1 || c == -1 || c != b)
+	if (o == -1 || r == -1 || w == -1 || w != r)
 	{
 		free(buffer);
 		return (0);
 	}
 
 	free(buffer);
-	close(a);
+	close(o);
 
-	return (c);
+	return (w);
 }
